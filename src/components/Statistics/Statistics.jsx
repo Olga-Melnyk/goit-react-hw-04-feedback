@@ -10,7 +10,6 @@ export const Statistics = ({
 }) => {
   return (
     <div>
-      {/* <OptionsTitle>Statistics</OptionsTitle> */}
       <OptionsList>
         <OptionsItem>Good: {good}</OptionsItem>
         <OptionsItem>Neutral: {neutral}</OptionsItem>
