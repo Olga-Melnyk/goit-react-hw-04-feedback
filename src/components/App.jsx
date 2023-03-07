@@ -29,7 +29,7 @@ export class App extends Component {
   render() {
     return (
       <div>
-        <Section title="Please leave feedback">
+        <Section title="Please leave feedback4">
           <FeedbackOptions
             options={Object.keys(this.state)}
             onLeaveFeedback={this.onLeaveFeedback}
